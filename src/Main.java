@@ -14,8 +14,7 @@ public class Main {
         System.out.println(triangulo3.tipo());
     }
     void numeros (){
-        Numero maior = new Numero();
-        System.out.println(maior.maior());
+        new Numero().calculos();
     }
 }
 
